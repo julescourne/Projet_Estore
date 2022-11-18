@@ -1,0 +1,5 @@
+edu.polytech.estore.business
+edu.polytech.estore.controller
+edu.polytech.estore.dao
+edu.polytech.estore.model
+edu.polytech.estore.ws.rest
